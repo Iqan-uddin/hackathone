@@ -1,0 +1,23 @@
+i.fa-brands.fa-facebook-f {
+    margin-left: 1030px;
+}
+.container-fluid{
+    z-index: 1;
+}
+.header{
+    height: 80px;
+}
+
+p {
+    display: inline-block;
+    
+}
+a{
+    
+    text-decoration: none;
+}
+
+p:hover{
+    text-decoration: underline;
+    color: ;
+}
